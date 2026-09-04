@@ -1,2 +1,1 @@
-# tanpa-ampun
-Tugas 1 Praktikum Rekayasa Sistem Informasi
+# Team Tanpa Ampun Kelas Sains Data B
